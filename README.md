@@ -1,6 +1,6 @@
 <img src=./icon.png width=25% align="right"/>
 
-# PixDe | 使用 Python 编写的 Pixiv 第三方桌面客户端。
+# PixDe | 使用 Python 编写的 Pixiv 第三方桌面客户端
 
 ---
 
