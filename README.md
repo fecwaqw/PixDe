@@ -12,9 +12,9 @@
 
 ---
 ### 开发 
-本项目基于Python 3.7开发。
+本项目基于Python 3.8开发。
 
-使用PyQt5+PyQt-Fluent-Widgets
+使用PyQt5+QMaterialWidgets
 
 使用PixivPy3爬取
 
